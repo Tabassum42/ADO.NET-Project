@@ -1,0 +1,177 @@
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\bin\Debug\Project_5.exe.config
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\bin\Debug\Project_5.exe
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\bin\Debug\Project_5.pdb
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.Form1.resources
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.exe
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.pdb
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.AddGrocery.resources
+C:\Users\Lab-104-03\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.EditForm.resources
+G:\New folder\new project fial\Project_1268507\Project_5\bin\Debug\Project_5.exe.config
+G:\New folder\new project fial\Project_1268507\Project_5\bin\Debug\Project_5.exe
+G:\New folder\new project fial\Project_1268507\Project_5\bin\Debug\Project_5.pdb
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.AddGrocery.resources
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.EditForm.resources
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.Form1.resources
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.exe
+G:\New folder\new project fial\Project_1268507\Project_5\obj\Debug\Project_5.pdb
+C:\Users\User\Desktop\new\Project_1268507\Project_5\bin\Debug\Project_5.exe.config
+C:\Users\User\Desktop\new\Project_1268507\Project_5\bin\Debug\Project_5.exe
+C:\Users\User\Desktop\new\Project_1268507\Project_5\bin\Debug\Project_5.pdb
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.AddGrocery.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.AddProprietor.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.EditDeleteProprietor.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.EditForm.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.Form1.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.exe
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.pdb
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.FromGroceryrpt.resources
+C:\Users\User\Desktop\new\Project_1268507\Project_5\obj\Debug\Project_5.FromGroceryGrouprpt.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.AddGrocery.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.AddProprietor.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.EditDeleteProprietor.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.EditForm.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.Form1.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\Project_5.exe.config
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\Project_5.exe
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\Project_5.pdb
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\stdole.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.exe
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.pdb
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.GroceryFormRpt.resources
+C:\Users\Lab-104-03\Desktop\Project_1268507\Project_5\obj\Debug\Project_5.GroceryGroupRpt.resources
+G:\New folder\Project_1268507\Project_5\bin\Debug\Project_5.exe.config
+G:\New folder\Project_1268507\Project_5\bin\Debug\Project_5.exe
+G:\New folder\Project_1268507\Project_5\bin\Debug\Project_5.pdb
+G:\New folder\Project_1268507\Project_5\bin\Debug\AxShockwaveFlashObjects.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.Shared.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\ShockwaveFlashObjects.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\stdole.dll
+G:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.AddGrocery.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.AddProprietor.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.EditDeleteProprietor.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.EditForm.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.Form1.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.GroceryFormRpt.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.GroceryGroupRpt.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CopyComplete
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.exe
+G:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.pdb
+H:\New folder\Project_1268507\Project_5\bin\Debug\Project_5.exe.config
+H:\New folder\Project_1268507\Project_5\bin\Debug\Project_5.exe
+H:\New folder\Project_1268507\Project_5\bin\Debug\Project_5.pdb
+H:\New folder\Project_1268507\Project_5\bin\Debug\ShockwaveFlashObjects.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\stdole.dll
+H:\New folder\Project_1268507\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.AddGrocery.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.AddProprietor.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.EditDeleteProprietor.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.EditForm.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.Form1.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.GroceryFormRpt.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.GroceryGroupRpt.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.exe
+H:\New folder\Project_1268507\Project_5\obj\Debug\Project_5.pdb
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\Project_5.exe.config
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\Project_5.exe
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\Project_5.pdb
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.Shared.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\ShockwaveFlashObjects.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\stdole.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.csproj.SuggestedBindingRedirects.cache
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.AddGrocery.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.AddProprietor.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.EditDeleteProprietor.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.EditForm.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.Form1.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.GroceryFormRpt.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.GroceryGroupRpt.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.Properties.Resources.resources
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.csproj.GenerateResource.cache
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.csproj.CopyComplete
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.exe
+H:\Tabassum All Project 1268507\Ado Project\Project_5\obj\Debug\Project_5.pdb

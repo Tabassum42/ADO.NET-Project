@@ -1,0 +1,12 @@
+G:\New folder\Project_1268507\Project\bin\Debug\StoreDB.mdf
+G:\New folder\Project_1268507\Project\bin\Debug\StoreDB_log.ldf
+G:\New folder\Project_1268507\Project\bin\Debug\Project.exe.config
+G:\New folder\Project_1268507\Project\bin\Debug\Project.exe
+G:\New folder\Project_1268507\Project\bin\Debug\Project.pdb
+G:\New folder\Project_1268507\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+G:\New folder\Project_1268507\Project\obj\Debug\Project.Form1.resources
+G:\New folder\Project_1268507\Project\obj\Debug\Project.Properties.Resources.resources
+G:\New folder\Project_1268507\Project\obj\Debug\Project.csproj.GenerateResource.cache
+G:\New folder\Project_1268507\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+G:\New folder\Project_1268507\Project\obj\Debug\Project.exe
+G:\New folder\Project_1268507\Project\obj\Debug\Project.pdb
